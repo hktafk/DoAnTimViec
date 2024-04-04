@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung %284%29\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="FCreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FNhaTuyenDung\FDangBai_NTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FNhaTuyenDung\FDangViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FNhaTuyenDung\FLichSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FNhaTuyenDung\FNhapThongTinNTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FNhaTuyenDung\FThongTin_NTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FNhaTuyenDung\FXemUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUngVien\FMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUngVien\FMoTa_YeuCau_QuyenLoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUngVien\FNhapThongTin_UV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUngVien\FThongTin_UV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUngVien\FTimViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUngVien\FTinhTrang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FYeuThich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_DangKiTaiKhoanNTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UCLichSuNTD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCNhaTuyenDung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCTimKiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCTinhTrang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCXemUV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucYeuThich.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

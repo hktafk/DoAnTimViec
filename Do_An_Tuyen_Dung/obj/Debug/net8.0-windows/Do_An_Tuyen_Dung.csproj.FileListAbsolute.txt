@@ -1,0 +1,775 @@
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CopyComplete
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tu.F77CB8AE.Up2Date
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+E:\Hoc Tap\Lap trinh window\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMenu.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMoTa_YeuCau_QuyenLoi.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrang.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\nguye\Documents\Zalo Received Files\Do_An_Tuyen_Dung (4)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tu.F77CB8AE.Up2Date
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMenu.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMoTa_YeuCau_QuyenLoi.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrang.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tu.F77CB8AE.Up2Date
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMenu.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMoTa_YeuCau_QuyenLoi.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrang.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CopyComplete
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+C:\Users\TieuMi\Desktop\Do_An_Tuyen_Dung711\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMenu.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMoTa_YeuCau_QuyenLoi.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrang.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tu.F77CB8AE.Up2Date
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+E:\nhap3\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMenu.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMoTa_YeuCau_QuyenLoi.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrang.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tu.F77CB8AE.Up2Date
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+C:\Users\nguye\Downloads\Do_An_Tuyen_Dung (1)\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMenu.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMoTa_YeuCau_QuyenLoi.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrang.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tu.F77CB8AE.Up2Date
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FLichSuCon.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FXemUVCon.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViecCon.resources
+E:\nhap3\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrangCon.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCLichSuNTD.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCXemUV.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCTimKiem.resources
+E:\Nhap2\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCTinhTrang.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMenu.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMoTa_YeuCau_QuyenLoi.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrang.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FYeuThich.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCLichSuNTD.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCTimKiem.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCTinhTrang.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCXemUV.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.ucYeuThich.resources
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CopyComplete
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+D:\SUBJECTS\ĐỒ ÁN WINDOWS\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.exe
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.deps.json
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.runtimeconfig.json
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Management.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.AssemblyReference.cache
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FCreateAccount.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FLogin.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FDangBai_NTD.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FDangViec.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FLichSu.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FORM_NTD.FNhapThongTinNTD.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FNhaTuyenDung.FThongTin_NTD.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Ung_Dung_Tim_Viec.FXemUV.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMenu.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FMoTa_YeuCau_QuyenLoi.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FNhapThongTin_UV.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FThongTin_UV.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTimViec.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FUngVien.FTinhTrang.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.FYeuThich.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.F_DangKiTaiKhoanNTD.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.Properties.Resources.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCLichSuNTD.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCNhaTuyenDung.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCTimKiem.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCTinhTrang.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.UCXemUV.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.ucYeuThich.resources
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.GenerateResource.cache
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.GeneratedMSBuildEditorConfig.editorconfig
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfoInputs.cache
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.AssemblyInfo.cs
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.csproj.CoreCompileInputs.cache
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tu.F77CB8AE.Up2Date
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\refint\Do_An_Tuyen_Dung.dll
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.pdb
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\Do_An_Tuyen_Dung.genruntimeconfig.cache
+E:\nhap3\sau1\sau1\Do_An_Tuyen_Dung\Do_An_Tuyen_Dung\obj\Debug\net8.0-windows\ref\Do_An_Tuyen_Dung.dll

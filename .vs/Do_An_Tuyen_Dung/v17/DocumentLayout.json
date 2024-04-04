@@ -1,0 +1,1135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fxemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fxemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fdangbai_ntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fdangbai_ntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\flichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\flichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fdangviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fdangviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fmota_yeucau_quyenloi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fmota_yeucau_quyenloi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fthongtin_ntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fthongtin_ntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fthongtin_ntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fthongtin_ntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fthongtin_uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fthongtin_uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fthongtin_uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fthongtin_uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fdangbai_ntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fdangbai_ntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|e:\\nhap3\\sau1\\sau1\\do_an_tuyen_dung\\do_an_tuyen_dung\\fnhatuyendung\\flichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\flichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|e:\\nhap3\\sau1\\sau1\\do_an_tuyen_dung\\do_an_tuyen_dung\\fnhatuyendung\\fxemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fxemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\uclichsuntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\uclichsuntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\uclichsuntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\uclichsuntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|e:\\nhap3\\sau1\\sau1\\do_an_tuyen_dung\\do_an_tuyen_dung\\fnhatuyendung\\fnhapthongtinntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fnhapthongtinntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\ftimviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\ftimviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|e:\\nhap3\\sau1\\sau1\\do_an_tuyen_dung\\do_an_tuyen_dung\\fnhatuyendung\\fdangviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fdangviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\ftinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\ftinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\uctinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\uctinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\uctimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\uctimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\ucnhatuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\ucnhatuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fmota_yeucau_quyenloi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fmota_yeucau_quyenloi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhom/True/SqlTable/dbo.TaoTaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fmota_yeucau_quyenloi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fmota_yeucau_quyenloi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fnhapthongtin_uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fnhapthongtin_uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\lichsuntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\lichsuntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\ftinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\ftinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\ucxemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\ucxemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhomHC/True/SqlTable/dbo.ThongTinCTy_Chinh.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhomHC/True/SqlTable/dbo.DangBaiNTD.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\motayeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\motayeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\nhapthongtinntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\nhapthongtinntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\ucxemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\ucxemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\f_dangkitaikhoanntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\f_dangkitaikhoanntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fyeuthich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fyeuthich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\ftimviec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\ftimviec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\tinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\tinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\uctinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\uctinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\xemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\xemuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\lichsuntd_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\lichsuntd_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhom/True/SqlTable/dbo.LichSuNTD.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fnhapthongtin_uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fnhapthongtin_uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fnhapthongtinntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fnhapthongtinntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\f_dangkitaikhoanntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\f_dangkitaikhoanntd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fcreateaccount.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fcreateaccount.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhom/True/SqlTable/dbo.DangNhap.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/KHANG_TEST1/UngDungTimViec/True/SqlTable/dbo.DangBaiNTD.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fdangviec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fdangviec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fdangviec.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fdangviec.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fnhapthongtin_uv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fnhapthongtin_uv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\fnhapthongtin_uv.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fungvien\\fnhapthongtin_uv.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fnhatuyendung\\fdangbai_ntd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fnhatuyendung\\fdangbai_ntd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/KHANG_TEST1/UngDungTimViec/True/SqlTable/dbo.DangNhap.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/KHANG_TEST1/UngDungTimViec/True/SqlTable/dbo.TaoTaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fcreateaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438393EB-F97A-4CAB-A7EE-C4EA3A4C0963}|Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung.csproj|solutionrelative:do_an_tuyen_dung\\fcreateaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Nhap2\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\ftimvieccon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Nhap2\\Do_An_Tuyen_Dung\\do_an_tuyen_dung\\fungvien\\ftimvieccon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 290,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UCLichSuNTD.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCLichSuNTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\UCLichSuNTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCLichSuNTD.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\UCLichSuNTD.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:20:00.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FXemUV.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FXemUV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FXemUV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FXemUV.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FXemUV.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:11:54.063Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FLichSu.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FLichSu.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FLichSu.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FLichSu.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FLichSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:28:44.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FXemUV.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FXemUV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FXemUV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FXemUV.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FXemUV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:35:45.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FDangBai_NTD.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:14:22.578Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FDangViec.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:21:54.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FMoTa_YeuCau_QuyenLoi.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:38:47.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FThongTin_NTD.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FThongTin_NTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FThongTin_NTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FThongTin_NTD.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FThongTin_NTD.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAvwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:46:44.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FThongTin_NTD.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FThongTin_NTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FThongTin_NTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FThongTin_NTD.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FThongTin_NTD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:33:12.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FThongTin_UV.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FThongTin_UV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FThongTin_UV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FThongTin_UV.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FThongTin_UV.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:03:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FThongTin_UV.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FThongTin_UV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FThongTin_UV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FThongTin_UV.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FThongTin_UV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:50:57.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FDangBai_NTD.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAASwD4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:47:48.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FLogin.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FLogin.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FLogin.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FLogin.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FLogin.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwEUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:52:09.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FLogin.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FLogin.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FLogin.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FLogin.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:25:14.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\Program.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\Program.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\Program.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:18:33.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FLichSu.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FLichSu.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FLichSu.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FLichSu.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FLichSu.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAhwFcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:01:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UCLichSuNTD.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCLichSuNTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\UCLichSuNTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCLichSuNTD.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\UCLichSuNTD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:53:10.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FNhapThongTinNTD.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FNhapThongTinNTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FNhapThongTinNTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FNhapThongTinNTD.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FNhapThongTinNTD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:11:44.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FTimViec.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViec.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FTimViec.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViec.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FTimViec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:46:58.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FDangViec.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAawHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:57:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FTinhTrang.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTinhTrang.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FTinhTrang.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTinhTrang.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FTinhTrang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:49:33.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UCTinhTrang.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCTinhTrang.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\UCTinhTrang.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCTinhTrang.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\UCTinhTrang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:04:37.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UCTimKiem.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCTimKiem.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\UCTimKiem.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCTimKiem.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\UCTimKiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:39:14.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UCNhaTuyenDung.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCNhaTuyenDung.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\UCNhaTuyenDung.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCNhaTuyenDung.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\UCNhaTuyenDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:55.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FMoTa_YeuCau_QuyenLoi.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAhwFQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:47:39.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FCreateAccount.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FCreateAccount.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FCreateAccount.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FCreateAccount.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FCreateAccount.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:24:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\Modify.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\Modify.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\Modify.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\Modify.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwD0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T01:20:44.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FMoTa_YeuCau_QuyenLoi.Designer.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.Designer.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.Designer.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.Designer.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FMoTa_YeuCau_QuyenLoi.Designer.cs",
+              "ViewState": "AQIAAAYCAAAAAAAAAAAhwBMCAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:01:45.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.TaoTaiKhoan [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhom/True/SqlTable/dbo.TaoTaiKhoan.sql",
+              "ToolTip": "dbo.TaoTaiKhoan [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-03T14:04:04.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FNhapThongTin_UV.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:25:06.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TimKiem.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\TimKiem.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\TimKiem.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\TimKiem.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\TimKiem.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:40:22.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LichSuNTD.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\LichSuNTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\LichSuNTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\LichSuNTD.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\LichSuNTD.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawBsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:15:43.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\Connection.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\Connection.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\Connection.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAC6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:10:24.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\DBConnection.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\DBConnection.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\DBConnection.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:02:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FTinhTrang.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTinhTrang.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FTinhTrang.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTinhTrang.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FTinhTrang.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAvwHkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:39:50.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FMenu.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMenu.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FMenu.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMenu.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FMenu.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAD4vxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:38:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FMenu.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMenu.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FMenu.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FMenu.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:36:39.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\TaiKhoan.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\TaiKhoan.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\TaiKhoan.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T01:28:16.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UCXemUV.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCXemUV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\UCXemUV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCXemUV.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\UCXemUV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:19:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dbo.ThongTinCTy_Chinh [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhomHC/True/SqlTable/dbo.ThongTinCTy_Chinh.sql",
+              "ToolTip": "dbo.ThongTinCTy_Chinh [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-01T14:32:13.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "dbo.DangBaiNTD [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhomHC/True/SqlTable/dbo.DangBaiNTD.sql",
+              "ToolTip": "dbo.DangBaiNTD [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-01T14:28:13.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MoTaYeuCau.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\MoTaYeuCau.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\MoTaYeuCau.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\MoTaYeuCau.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\MoTaYeuCau.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAIAwwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:12:08.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NhapThongTinNTD.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\NhapThongTinNTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\NhapThongTinNTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\NhapThongTinNTD.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\NhapThongTinNTD.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:49:02.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UCXemUV.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCXemUV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\UCXemUV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCXemUV.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\UCXemUV.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAhwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:21:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "F_DangKiTaiKhoanNTD.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\F_DangKiTaiKhoanNTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\F_DangKiTaiKhoanNTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\F_DangKiTaiKhoanNTD.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\F_DangKiTaiKhoanNTD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T01:20:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FYeuThich.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FYeuThich.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FYeuThich.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FYeuThich.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FYeuThich.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:56:16.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FTimViec.Designer.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViec.Designer.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FTimViec.Designer.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViec.Designer.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FTimViec.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:01:48.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UCTinhTrang.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCTinhTrang.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\UCTinhTrang.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\UCTinhTrang.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\UCTinhTrang.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:11:55.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TinhTrang.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\TinhTrang.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\TinhTrang.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\TinhTrang.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\TinhTrang.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:04:51.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "XemUV.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\XemUV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\XemUV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\XemUV.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\XemUV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:22:39.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LichSuNTD_DAO.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\LichSuNTD_DAO.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\LichSuNTD_DAO.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\LichSuNTD_DAO.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\LichSuNTD_DAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:31:40.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "dbo.LichSuNTD [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhom/True/SqlTable/dbo.LichSuNTD.sql",
+              "ToolTip": "dbo.LichSuNTD [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-29T09:36:20.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FTimViecCon.cs",
+              "DocumentMoniker": "E:\\Nhap2\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViecCon.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Nhap2\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViecCon.cs",
+              "ToolTip": "E:\\Nhap2\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViecCon.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Nhap2\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViecCon.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:35:24.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FTimViecCon.cs [Design]",
+              "DocumentMoniker": "E:\\Nhap2\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViecCon.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Nhap2\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViecCon.cs",
+              "ToolTip": "E:\\Nhap2\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViecCon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nhap2\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FTimViecCon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:34:44.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FNhapThongTin_UV.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:04:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FNhapThongTinNTD.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FNhapThongTinNTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FNhapThongTinNTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FNhapThongTinNTD.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FNhapThongTinNTD.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAASwEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:00:33.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "F_DangKiTaiKhoanNTD.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\F_DangKiTaiKhoanNTD.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\F_DangKiTaiKhoanNTD.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\F_DangKiTaiKhoanNTD.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\F_DangKiTaiKhoanNTD.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAhwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:20:33.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FCreateAccount.cs [Design]",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FCreateAccount.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FCreateAccount.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FCreateAccount.cs [Design]",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FCreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:24:31.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FCreateAccount.resx",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FCreateAccount.resx",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FCreateAccount.resx",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FCreateAccount.resx",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FCreateAccount.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-28T23:58:46.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "dbo.DangNhap [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_T4EF20F_SQLEXPRESS/DoAnNhom/True/SqlTable/dbo.DangNhap.sql",
+              "ToolTip": "dbo.DangNhap [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-22T03:49:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FDangViec.resx",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.resx",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.resx",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.resx",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-21T16:54:24.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FDangViec.Designer.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.Designer.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.Designer.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.Designer.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangViec.Designer.cs",
+              "ViewState": "AQIAAJcBAAAAAAAAAAAawLcBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:54:04.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "dbo.DangBaiNTD [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/KHANG_TEST1/UngDungTimViec/True/SqlTable/dbo.DangBaiNTD.sql",
+              "ToolTip": "dbo.DangBaiNTD [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-21T17:05:45.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FNhapThongTin_UV.Designer.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.Designer.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.Designer.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.Designer.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:02:27.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FNhapThongTin_UV.resx",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.resx",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.resx",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.resx",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FUngVien\\FNhapThongTin_UV.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-21T15:02:24.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FDangBai_NTD.Designer.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.Designer.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.Designer.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.Designer.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FNhaTuyenDung\\FDangBai_NTD.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAvwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:14:06.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FLogin.Designer.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FLogin.Designer.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FLogin.Designer.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FLogin.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAD4v/oAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T01:27:10.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "dbo.DangNhap [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/KHANG_TEST1/UngDungTimViec/True/SqlTable/dbo.DangNhap.sql",
+              "ToolTip": "dbo.DangNhap [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-20T01:16:31.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "dbo.TaoTaiKhoan [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/KHANG_TEST1/UngDungTimViec/True/SqlTable/dbo.TaoTaiKhoan.sql",
+              "ToolTip": "dbo.TaoTaiKhoan [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-20T01:07:59.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FCreateAccount.Designer.cs",
+              "DocumentMoniker": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FCreateAccount.Designer.cs",
+              "RelativeDocumentMoniker": "Do_An_Tuyen_Dung\\FCreateAccount.Designer.cs",
+              "ToolTip": "E:\\nhap3\\sau1\\sau1\\Do_An_Tuyen_Dung\\Do_An_Tuyen_Dung\\FCreateAccount.Designer.cs",
+              "RelativeToolTip": "Do_An_Tuyen_Dung\\FCreateAccount.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAASwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:30:32.451Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
